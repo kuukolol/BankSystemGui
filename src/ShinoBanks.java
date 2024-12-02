@@ -5,7 +5,7 @@ public class ShinoBanks {
     final private String databaseName = "Accounts";
     final static String url = "jdbc:mysql://localhost:3306";
     final static String username = "root";
-    final static String password = "Mikkichan1.";
+    final static String password = "password";
 
     Connection connection = null;
     Statement statement = null;
